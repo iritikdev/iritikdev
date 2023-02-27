@@ -1,19 +1,17 @@
-# Hi, I am [Ritik](https://iritikdev.github.io/) 👋
+# Hi, I am [Ritik](https://ritiksharma.online/) 👋
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
 
-I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at online meetups](https://iritikdev.github.io/) or [writing blog posts](https://iritikdev.github.io/) around web development, JavaScript and web accessibility.
+Hello! My name is Ritik and I love to create things that live on the internet. My interest in web development started back in 2018 when I was in 2nd year of my diploma.  
 
-> Making the web accessible, one website at a time!!
+In my free time, I enjoy building stuff that live on internet. I believe in continuously learning and expanding my knowledge base to stay ahead in the field.
 
-- 👩‍💻 I'm working as JavaScript Developer @freelancer
-- 🏆 [Web Dev enthusiast](#) for Web Technologies, React Native.
-- 🔭 I’m currently building a website to help people get started with accessibility concepts
-- 📚 I love reading books and in order to resume my habit of daily reading, I'm currently participating in #100DaysOfReading.
-- 🤝 I’m looking to collaborate on sharing awareness around accessibility.
-- 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
+I am always looking for new opportunities to challenge myself and make a positive impact. Please feel free to explore my website to learn more about my work and connect with me.
+
+[writing blog posts](https://ritiksharma.online/blog) around web development, JavaScript and web accessibility.
+
 - 💬 My favourite quotes:
 
   > "Choose right over easy, always."
@@ -44,5 +42,4 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 [twitter]: https://twitter.com/
 [linkedin]: https://www.linkedin.com/in/iritiksharma
-[youtube]: https://youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ
-[bmc]: https://www.buymeacoffee.com/anuradhak
+
